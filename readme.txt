@@ -1,5 +1,5 @@
 git is a version control system
-git is free software
+git is a free software
 
 creat a new branch is quick and
 
